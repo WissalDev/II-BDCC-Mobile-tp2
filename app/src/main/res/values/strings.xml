@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Account</string>
+    <string name="welcome_app">Welcome</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="information_text">User account information</string>
+    <string name="username_txt">Username:</string>
+    <string name="password_txt">Password:</string>
+
+</resources>

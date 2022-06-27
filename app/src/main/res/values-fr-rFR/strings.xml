@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compte</string>
+    <string name="welcome_app">Bienvenue</string>
+    <string name="title_activity_login">Activité de connexion</string>
+    <string name="prompt_email">Nom d\'utilisateur:</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">S\'IDENTIFIER</string>
+    <string name="action_sign_in_short">S\'identifier</string>
+    <string name="welcome">"Bienvenue !"</string>
+    <string name="invalid_username">Nom d\'utilisateur non valide</string>
+    <string name="invalid_password">Le mot de passe doit contenir plus de 5 caractères</string>
+    <string name="login_failed">"Échec de la connexion"</string>
+    <string name="information_text">Les information du compte de l\'utilisateur</string>
+    <string name="username_txt">Nom d\'utilisateur:</string>
+    <string name="password_txt">Mot de passe:</string>
+</resources>
